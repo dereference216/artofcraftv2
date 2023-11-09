@@ -1,0 +1,5 @@
+{
+    "RequestRetry": 3,
+    "Threads": 20,
+    "Debug": false
+}
