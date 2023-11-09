@@ -2,7 +2,7 @@
 Discord x Picsart - PromoGenv2
 This is v2 of the promogen. You can say its a zero day exploitation of api cause it doesn't need any captchas also the api doesn't validate the headers properly and the apis of picsart are poorly maintained which we took the advantage of to generate tons of promos.
 
-Leaking cause i sold the program and some skid generating promos with it and saying it was made by them. 
+Leaking cause i sold the program and some skid distributed to others and generating promos with it and saying it was made by them. 
 
 By using this repository or any code related to it, you agree to the [legal notice](./LEGAL_NOTICE.md). The author is not responsible for any copies, forks, damage or reuploads made by other users. This is the author's only account and repository. To prevent impersonation or irresponsible actions, you may comply with the GNU GPL license this Repository uses.
 
