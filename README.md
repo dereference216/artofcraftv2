@@ -1,4 +1,4 @@
-# artofcraftv2 
+# artofcraftv2 (PATCHED)
 Discord x Picsart - PromoGenv2
 This is v2 of the promogen. You can say its a zero day exploitation of api cause it doesn't need any captchas also the api doesn't validate the headers properly and the apis of picsart are poorly maintained which we took the advantage of to generate tons of promos.
 
