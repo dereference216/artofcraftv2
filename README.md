@@ -7,8 +7,6 @@ Leaking cause i sold the program and some skid generating promos with it and say
 By using this repository or any code related to it, you agree to the [legal notice](./LEGAL_NOTICE.md). The author is not responsible for any copies, forks, damage or reuploads made by other users. This is the author's only account and repository. To prevent impersonation or irresponsible actions, you may comply with the GNU GPL license this Repository uses.
 
 # Setup
-Install golang on your respective OS(Operating System)
-After that:
 
 ## Getting Started
 
