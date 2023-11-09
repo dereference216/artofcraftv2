@@ -17,7 +17,7 @@ By using this repository or any code related to it, you agree to the [legal noti
 #### Clone Repository
 1. Clone the GitHub repository: 
 ```
-git clone 
+git clone https://github.com/dereference216/artofcraftv2.git
 ```
 2. Install all the required packages
 ```
